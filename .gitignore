@@ -1,4 +1,6 @@
 toignore
 log/
+*.bak
+*.orig
 
 
